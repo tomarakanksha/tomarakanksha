@@ -5,7 +5,7 @@ Welcome to my GitHub!
 ## About Me
 - 🎓 Masters in Computer Science with a focus on Big Data, Cloud Computing and Software Engineering
 - 🚀 Currently exploring GenAI LLM models and FastAPI
-- 💻 Software Engineer with a love for coding challenges on [LeetCode](https://leetcode.com/yourleetcodeprofile/)
+- 💻 Software Engineer with a love for coding challenges on [LeetCode](https://leetcode.com/akanksha01/)
 
 ## Skills
 - **Languages:** Python, C#, Java, JavaScript
@@ -22,7 +22,7 @@ Here are some of the projects I am currenly worked on:
 Feel free to explore my other repositories for more projects and contributions!
 
 ## Connect with Me
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/yourlinkedinprofile/)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/tomarakanksha/)
 - Email: akankshatomar01@gmail.com
 
 I'm graduating in May 2024 and eager to embark on new opportunities in the world of technology. If you have any exciting projects or opportunities, let's connect! Happy coding! 🚀
