@@ -16,7 +16,8 @@ Here are some of the languages and tools I've worked with:
 -Jenkins, Docker, Kubernetes ⚡️
 
 ## Connect with Me
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/tomarakanksha/)
-- Email: akankshatomar01@gmail.com
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/tomarakanksha/)
+[![email](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:akankshatomar01@gmail.com)
+
 
 I'm graduating in May 2024 and eager to embark on new opportunities in the world of technology. If you have any exciting projects or opportunities, let's connect! Happy coding! 🚀😊
